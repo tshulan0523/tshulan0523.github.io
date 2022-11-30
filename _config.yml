@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "South Korea"
 title                    : "유레카 프로젝트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
